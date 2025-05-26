@@ -4,12 +4,14 @@ export const personalInfo = {
   name: "Kirtana Sridharan",
   title: "Software Engineer",
   description: "Analyze. Code. Build. Repeat.",
-  about: "I'm a passionate developer with expertise in both software development and data science. With over 2 years of experience, I combine strong programming skills with data analysis and machine learning capabilities. I focus on writing clean, efficient code and creating intuitive user experiences, while also implementing sophisticated data models that solve real-world problems.",
+  about:
+    "I'm a passionate developer with expertise in both software development and data science. With over 2 years of experience, I combine strong programming skills with data analysis and machine learning capabilities. I focus on writing clean, efficient code and creating intuitive user experiences, while also implementing sophisticated data models that solve real-world problems.",
   location: "New York, NY",
   email: "skirtana24@gmail.com",
   github: "https://github.com/KirtanaSridharan",
   linkedin: "https://www.linkedin.com/in/kirtana-sridharan/",
-  resume: "https://drive.google.com/file/d/1yXrGscRpk0lGrzFlmaSSd7LHlnKxobce/view?usp=sharing",
+  resume:
+    "https://drive.google.com/file/d/1j9RZkwquMLxT0mNo74Ou4mOE6oO9zUad/view?usp=sharing",
 };
 
 export const skills: Skill[] = [
