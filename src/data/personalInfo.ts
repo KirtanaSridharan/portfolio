@@ -11,7 +11,7 @@ export const personalInfo = {
   github: "https://github.com/KirtanaSridharan",
   linkedin: "https://www.linkedin.com/in/kirtana-sridharan/",
   resume:
-    "https://drive.google.com/file/d/1j9RZkwquMLxT0mNo74Ou4mOE6oO9zUad/view?usp=sharing",
+    "https://drive.google.com/file/d/1PTG56UiBlqi_o5o5xPy9BBOnu836R03V/view?usp=sharing",
 };
 
 export const skills: Skill[] = [
